@@ -1,13 +1,16 @@
 // https://www.codewars.com/kata/551f37452ff852b7bd000139
 // Binary Addition
 
-using System;
-
-public static class Kata
+namespace Binary_Addition
 {
-    public static string AddBinary(int a, int b)
+    using System;
+
+    public class Kata
     {
-        int value = a + b;
-        return Convert.ToString(value, 2);
+        public static string AddBinary(int a, int b)
+        {
+            int value = a + b;
+            return Convert.ToString(value, 2);
+        }
     }
 }

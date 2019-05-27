@@ -4,7 +4,7 @@
 function unluckyDays(year) {
     let count = 0;
     for (let i = 0; i < 12; i++) {
-        let date = new Date(year, i, 13, 12, 00);
+        let date = new Date(year, i, 13, 12, 0);
         if (date.getDay() === 5) {
             count++;
         }

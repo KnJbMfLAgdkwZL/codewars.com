@@ -1,7 +1,7 @@
 // All unique
 // https://www.codewars.com/kata/553e8b195b853c6db4000048
 
-namespace codewars.com.Kata._8_kyu.All_unique
+namespace codewars.com.Kata._7_kyu.All_unique
 {
     using System.Linq;
 

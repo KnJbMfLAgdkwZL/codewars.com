@@ -1,7 +1,7 @@
 // The Coupon Code
 // https://www.codewars.com/kata/539de388a540db7fec000642
 
-namespace codewars.com.Kata._8_kyu.The_Coupon_Code
+namespace codewars.com.Kata._7_kyu.The_Coupon_Code
 {
     using System;
 

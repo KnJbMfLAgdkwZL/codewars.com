@@ -1,7 +1,7 @@
 // getNames
 // https://www.codewars.com/kata/514a677421607afc99000002
 
-namespace codewars.com.Kata._8_kyu.getNames
+namespace codewars.com.Kata._7_kyu.getNames
 {
     using System.Linq;
 

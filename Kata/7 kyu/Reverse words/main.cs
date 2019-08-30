@@ -2,7 +2,7 @@
 // Reverse words
 
 
-namespace Reverse_words
+namespace codewars.com.Kata._7_kyu.Reverse_words
 {
     using System.Linq;
 

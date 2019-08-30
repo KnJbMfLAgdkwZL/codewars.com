@@ -1,7 +1,7 @@
 // Find Count of Most Frequent Item in an Array
 // https://www.codewars.com/kata/56582133c932d8239900002e
 
-namespace codewars.com.Kata._8_kyu.Find_Count_of_Most_Frequent_Item_in_an_Array
+namespace codewars.com.Kata._7_kyu.Find_Count_of_Most_Frequent_Item_in_an_Array
 {
     using System.Collections.Generic;
     using System.Linq;

@@ -1,7 +1,7 @@
 // Counting power sets
 // https://www.codewars.com/kata/54381f0b6f032f933c000108
 
-namespace codewars.com.Kata._8_kyu.Counting_power_sets
+namespace codewars.com.Kata._7_kyu.Counting_power_sets
 {
     using System.Numerics;
 

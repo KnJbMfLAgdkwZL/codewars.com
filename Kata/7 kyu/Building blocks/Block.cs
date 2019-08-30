@@ -1,7 +1,7 @@
 // Building blocks
 // https://www.codewars.com/kata/55b75fcf67e558d3750000a3
 
-namespace codewars.com.Kata._8_kyu.Building_blocks
+namespace codewars.com.Kata._7_kyu.Building_blocks
 {
     class Block
     {

@@ -1,7 +1,7 @@
 // SequenceSum
 // https://www.codewars.com/kata/5436f26c4e3d6c40e5000282
 
-namespace codewars.com.Kata._8_kyu.SequenceSum
+namespace codewars.com.Kata._7_kyu.SequenceSum
 {
     using System;
     using System.Collections.Generic;

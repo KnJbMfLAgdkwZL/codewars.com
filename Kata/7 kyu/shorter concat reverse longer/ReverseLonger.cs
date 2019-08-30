@@ -1,7 +1,7 @@
 // shorter concat reverse longer
 // https://www.codewars.com/kata/54557d61126a00423b000a45
 
-namespace codewars.com.Kata._8_kyu.shorter_concat_reverse_longer
+namespace codewars.com.Kata._7_kyu.shorter_concat_reverse_longer
 {
     using System.Linq;
 

@@ -1,7 +1,7 @@
 // Form The Minimum
 // https://www.codewars.com/kata/5ac6932b2f317b96980000ca
 
-namespace codewars.com.Kata._8_kyu.Form_The_Minimum
+namespace codewars.com.Kata._7_kyu.Form_The_Minimum
 {
     using System.Linq;
 

@@ -1,7 +1,7 @@
 // Simple beads count
 // https://www.codewars.com/kata/58712dfa5c538b6fc7000569
 
-namespace codewars.com.Kata._8_kyu.Simple_beads_count
+namespace codewars.com.Kata._7_kyu.Simple_beads_count
 {
     public static class Kata
     {

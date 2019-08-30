@@ -1,7 +1,7 @@
 // Arithmetic Sequence
 // https://www.codewars.com/kata/540f8a19a7d43d24ac001018
 
-namespace codewars.com.Kata._8_kyu.Arithmetic_Sequence
+namespace codewars.com.Kata._7_kyu.Arithmetic_Sequence
 {
     public class Kata
     {

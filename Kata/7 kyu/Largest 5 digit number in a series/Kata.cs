@@ -1,7 +1,7 @@
 // Largest 5 digit number in a series
 // https://www.codewars.com/kata/51675d17e0c1bed195000001
 
-namespace codewars.com.Kata._8_kyu.Largest_5_digit_number_in_a_series
+namespace codewars.com.Kata._7_kyu.Largest_5_digit_number_in_a_series
 {
     public class Kata
     {

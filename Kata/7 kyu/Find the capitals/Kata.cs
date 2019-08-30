@@ -1,7 +1,7 @@
 // Find the capitals
 // https://www.codewars.com/kata/539ee3b6757843632d00026b
 
-namespace codewars.com.Kata._8_kyu.Find_the_capitals
+namespace codewars.com.Kata._7_kyu.Find_the_capitals
 {
     using System.Collections.Generic;
 

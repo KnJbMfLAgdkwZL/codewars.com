@@ -1,7 +1,7 @@
 // Remove duplicate words
 // https://www.codewars.com/kata/5b39e3772ae7545f650000fc
 
-namespace codewars.com.Kata._8_kyu.Remove_duplicate_words
+namespace codewars.com.Kata._7_kyu.Remove_duplicate_words
 {
     using System.Linq;
 

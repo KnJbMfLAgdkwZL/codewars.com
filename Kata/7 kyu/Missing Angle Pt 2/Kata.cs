@@ -1,7 +1,7 @@
 // Missing Angle Pt 2
 // https://www.codewars.com/kata/58e4f4ab020336dc4500093c
 
-namespace codewars.com.Kata._8_kyu.Missing_Angle_Pt_2
+namespace codewars.com.Kata._7_kyu.Missing_Angle_Pt_2
 {
     using System;
 

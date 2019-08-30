@@ -1,7 +1,7 @@
 // Rotate for a Max
 // https://www.codewars.com/kata/56a4872cbb65f3a610000026
 
-namespace codewars.com.Kata._8_kyu.Rotate_for_a_Max
+namespace codewars.com.Kata._7_kyu.Rotate_for_a_Max
 {
     using System.Collections.Generic;
     using System.Linq;

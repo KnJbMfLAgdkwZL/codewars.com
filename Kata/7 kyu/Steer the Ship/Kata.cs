@@ -1,7 +1,7 @@
 // Steer the Ship
 // https://www.codewars.com/kata/5a36f95fb6486a3b4300009d
 
-namespace codewars.com.Kata._8_kyu.Steer_the_Ship
+namespace codewars.com.Kata._7_kyu.Steer_the_Ship
 {
     using System;
 

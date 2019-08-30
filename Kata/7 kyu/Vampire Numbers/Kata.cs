@@ -1,7 +1,7 @@
 // Vampire Numbers
 // https://www.codewars.com/kata/54d418bd099d650fa000032d
 
-namespace codewars.com.Kata._8_kyu.Vampire_Numbers
+namespace codewars.com.Kata._7_kyu.Vampire_Numbers
 {
     using System.Linq;
 

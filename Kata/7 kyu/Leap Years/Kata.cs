@@ -1,7 +1,7 @@
 // Leap Years
 // https://www.codewars.com/kata/526c7363236867513f0005ca
 
-namespace codewars.com.Kata._8_kyu.Leap_Years
+namespace codewars.com.Kata._7_kyu.Leap_Years
 {
     public static class Kata
     {

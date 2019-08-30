@@ -1,7 +1,7 @@
 // Counting in the Amazon
 // https://www.codewars.com/kata/55b95c76e08bd5eef100001e
 
-namespace codewars.com.Kata._8_kyu.Counting_in_the_Amazon
+namespace codewars.com.Kata._7_kyu.Counting_in_the_Amazon
 {
     using System.Collections.Generic;
 

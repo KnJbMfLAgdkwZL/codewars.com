@@ -1,7 +1,7 @@
 // Peter takes an exam in school
 // https://www.codewars.com/kata/564b0f24c685f1befa000081
 
-namespace codewars.com.Kata._8_kyu.Peter_takes_an_exam_in_school
+namespace codewars.com.Kata._7_kyu.Peter_takes_an_exam_in_school
 {
     using System.Collections.Generic;
     using System.Linq;

@@ -1,7 +1,7 @@
 // Limit string length  1
 // https://www.codewars.com/kata/5208fc3cb613bc725f000142
 
-namespace codewars.com.Kata._8_kyu.Limit_string_length__1
+namespace codewars.com.Kata._7_kyu.Limit_string_length__1
 {
     public class Kata
     {

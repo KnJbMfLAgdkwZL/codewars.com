@@ -1,7 +1,7 @@
 // Maximum Length Difference
 // https://www.codewars.com/kata/5663f5305102699bad000056
 
-namespace codewars.com.Kata._8_kyu.Maximum_Length_Difference
+namespace codewars.com.Kata._7_kyu.Maximum_Length_Difference
 {
     using System;
     using System.Linq;

@@ -1,7 +1,7 @@
 // Anagram Detection
 // https://www.codewars.com/kata/529eef7a9194e0cbc1000255
 
-namespace codewars.com.Kata._8_kyu.Anagram_Detection
+namespace codewars.com.Kata._7_kyu.Anagram_Detection
 {
     using System.Linq;
 

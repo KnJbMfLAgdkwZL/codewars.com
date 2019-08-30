@@ -1,7 +1,7 @@
 // Functional Addition
 // https://www.codewars.com/kata/538835ae443aae6e03000547
 
-namespace codewars.com.Kata._8_kyu.Functional_Addition
+namespace codewars.com.Kata._7_kyu.Functional_Addition
 {
     using System;
 

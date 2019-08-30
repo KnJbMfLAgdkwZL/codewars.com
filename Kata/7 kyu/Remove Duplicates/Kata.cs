@@ -1,7 +1,7 @@
 // Remove Duplicates
 // https://www.codewars.com/kata/53e30ec0116393fe1a00060b
 
-namespace codewars.com.Kata._8_kyu.Remove_Duplicates
+namespace codewars.com.Kata._7_kyu.Remove_Duplicates
 {
     using System.Collections.Generic;
     using System.Linq;

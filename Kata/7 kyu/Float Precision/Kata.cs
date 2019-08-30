@@ -1,7 +1,7 @@
 // Float Precision
 // https://www.codewars.com/kata/5143d157ceb46d6a61000001
 
-namespace codewars.com.Kata._8_kyu.Float_Precision
+namespace codewars.com.Kata._7_kyu.Float_Precision
 {
     using System;
 

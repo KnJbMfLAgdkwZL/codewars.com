@@ -1,7 +1,7 @@
 // Greet Me
 // https://www.codewars.com/kata/535474308bb336c9980006f2
 
-namespace codewars.com.Kata._8_kyu.Greet_Me
+namespace codewars.com.Kata._7_kyu.Greet_Me
 {
     using System.Globalization;
 

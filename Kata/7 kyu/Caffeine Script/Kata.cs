@@ -1,7 +1,7 @@
 // Caffeine Script
 // https://www.codewars.com/kata/5434283682b0fdb0420000e6
 
-namespace codewars.com.Kata._8_kyu.Caffeine_Script
+namespace codewars.com.Kata._7_kyu.Caffeine_Script
 {
     public class Kata
     {

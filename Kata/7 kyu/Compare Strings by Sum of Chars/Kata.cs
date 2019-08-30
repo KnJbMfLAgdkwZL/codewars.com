@@ -1,7 +1,7 @@
 // Compare Strings by Sum of Chars
 // https://www.codewars.com/kata/576bb3c4b1abc497ec000065
 
-namespace codewars.com.Kata._8_kyu.Compare_Strings_by_Sum_of_Chars
+namespace codewars.com.Kata._7_kyu.Compare_Strings_by_Sum_of_Chars
 {
     public static class Kata
     {

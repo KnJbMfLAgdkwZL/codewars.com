@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/57f609022f4d534f05000024
 // Find the stray number
 
-namespace Find_the_stray_number
+namespace codewars.com.Kata._7_kyu.Find_the_stray_number
 {
     using System.Collections.Generic;
 

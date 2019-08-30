@@ -1,7 +1,7 @@
 // Name Array Capping
 // https://www.codewars.com/kata/5356ad2cbb858025d800111d
 
-namespace codewars.com.Kata._8_kyu.Name_Array_Capping
+namespace codewars.com.Kata._7_kyu.Name_Array_Capping
 {
     using System.Linq;
     using System.Globalization;

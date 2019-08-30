@@ -1,7 +1,7 @@
 // Deodorant Evaporator
 // https://www.codewars.com/kata/5506b230a11c0aeab3000c1f
 
-namespace codewars.com.Kata._8_kyu.Deodorant_Evaporator
+namespace codewars.com.Kata._7_kyu.Deodorant_Evaporator
 {
     public class Evaporator
     {

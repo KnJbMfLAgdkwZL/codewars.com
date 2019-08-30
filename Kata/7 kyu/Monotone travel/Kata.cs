@@ -1,7 +1,7 @@
 // Monotone travel
 // https://www.codewars.com/kata/54466996990c921f90000d61
 
-namespace codewars.com.Kata._8_kyu.Monotone_travel
+namespace codewars.com.Kata._7_kyu.Monotone_travel
 {
     public class Kata
     {

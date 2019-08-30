@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/54df2067ecaa226eca000229
 
 
-namespace codewars.com.Kata._8_kyu.Gau_needs_help_Sums_of_a_lot_of_numbers
+namespace codewars.com.Kata._7_kyu.Gau_needs_help_Sums_of_a_lot_of_numbers
 {
     public class Kata
     {

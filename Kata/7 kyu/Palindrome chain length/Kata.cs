@@ -1,7 +1,7 @@
 // Palindrome chain length
 // https://www.codewars.com/kata/525f039017c7cd0e1a000a26
 
-namespace codewars.com.Kata._8_kyu.Palindrome_chain_length
+namespace codewars.com.Kata._7_kyu.Palindrome_chain_length
 {
     using System.Linq;
 

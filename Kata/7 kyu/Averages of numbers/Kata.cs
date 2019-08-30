@@ -3,7 +3,7 @@
 
 using System.Collections.Generic;
 
-namespace codewars.com.Kata._8_kyu.Averages_of_numbers
+namespace codewars.com.Kata._7_kyu.Averages_of_numbers
 {
     public class Kata
     {

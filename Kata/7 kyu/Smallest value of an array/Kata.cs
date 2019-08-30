@@ -2,7 +2,7 @@
 // https://www.codewars.com/kata/544a54fd18b8e06d240005c0
 
 
-namespace codewars.com.Kata._8_kyu.Smallest_value_of_an_array
+namespace codewars.com.Kata._7_kyu.Smallest_value_of_an_array
 {
     using System.Linq;
     using System;

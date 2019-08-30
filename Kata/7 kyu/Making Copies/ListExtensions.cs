@@ -1,7 +1,7 @@
 // Making Copies
 // https://www.codewars.com/kata/53d2697b7152a5e13d000b82
 
-namespace codewars.com.Kata._8_kyu.Making_Copies
+namespace codewars.com.Kata._7_kyu.Making_Copies
 {
     using System.Linq;
     using System.Collections.Generic;

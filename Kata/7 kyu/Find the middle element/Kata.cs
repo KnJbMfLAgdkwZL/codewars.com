@@ -1,7 +1,7 @@
 // Find the middle element
 // https://www.codewars.com/kata/545a4c5a61aa4c6916000755
 
-namespace codewars.com.Kata._8_kyu.Find_the_middle_element
+namespace codewars.com.Kata._7_kyu.Find_the_middle_element
 {
     using System;
     using System.Linq;

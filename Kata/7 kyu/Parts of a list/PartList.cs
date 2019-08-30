@@ -1,7 +1,7 @@
 // Parts of a list
 // https://www.codewars.com/kata/56f3a1e899b386da78000732
 
-namespace codewars.com.Kata._8_kyu.Parts_of_a_list
+namespace codewars.com.Kata._7_kyu.Parts_of_a_list
 {
     using System.Collections.Generic;
     using System.Linq;

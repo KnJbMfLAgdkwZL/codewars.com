@@ -1,7 +1,7 @@
 // Simple Equation
 // https://www.codewars.com/kata/563fd46f2a1863685f000052
 
-namespace codewars.com.Kata._8_kyu.Simple_Equation
+namespace codewars.com.Kata._7_kyu.Simple_Equation
 {
     namespace Equation
     {

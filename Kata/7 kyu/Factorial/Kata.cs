@@ -1,7 +1,7 @@
 // Factorial
 // https://www.codewars.com/kata/54ff0d1f355cfd20e60001fc
 
-namespace codewars.com.Kata._8_kyu.Factorial
+namespace codewars.com.Kata._7_kyu.Factorial
 {
     using System;
     using System.Linq;

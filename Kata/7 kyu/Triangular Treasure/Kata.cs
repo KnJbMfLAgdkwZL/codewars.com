@@ -1,7 +1,7 @@
 // Triangular Treasure
 // https://www.codewars.com/kata/525e5a1cb735154b320002c8
 
-namespace codewars.com.Kata._8_kyu.Triangular_Treasure
+namespace codewars.com.Kata._7_kyu.Triangular_Treasure
 {
     public class Kata
     {

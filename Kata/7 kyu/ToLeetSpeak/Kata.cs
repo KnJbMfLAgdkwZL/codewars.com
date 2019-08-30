@@ -1,7 +1,7 @@
 // ToLeetSpeak
 // https://www.codewars.com/kata/57c1ab3949324c321600013f
 
-namespace codewars.com.Kata._8_kyu.ToLeetSpeak
+namespace codewars.com.Kata._7_kyu.ToLeetSpeak
 {
     using System.Collections.Generic;
     using System.Linq;

@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/563f037412e5ada593000114
 // Money, Money, Money
 
-namespace Money_Money_Money
+namespace codewars.com.Kata._7_kyu.Money_Money_Money
 {
     public class Kata
     {

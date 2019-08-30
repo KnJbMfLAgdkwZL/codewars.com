@@ -1,7 +1,7 @@
 // Alphabet war
 // https://www.codewars.com/kata/59377c53e66267c8f6000027
 
-namespace codewars.com.Kata._8_kyu.Alphabet_war
+namespace codewars.com.Kata._7_kyu.Alphabet_war
 {
     using System.Collections.Generic;
     using System.Linq;

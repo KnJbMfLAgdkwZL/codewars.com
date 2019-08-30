@@ -1,7 +1,7 @@
 // Thinkful  String Drills Repeater
 // https://www.codewars.com/kata/585a1a227cb58d8d740001c3
 
-namespace codewars.com.Kata._8_kyu.Thinkful__String_Drills_Repeater
+namespace codewars.com.Kata._7_kyu.Thinkful__String_Drills_Repeater
 {
     using System.Linq;
 

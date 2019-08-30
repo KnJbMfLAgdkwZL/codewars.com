@@ -1,7 +1,7 @@
 // Bit Plane Return
 // https://www.codewars.com/kata/5a1a00dcba2a14738a000029
 
-namespace codewars.com.Kata._8_kyu.Bit_Plane_Return
+namespace codewars.com.Kata._7_kyu.Bit_Plane_Return
 {
     using System;
     using System.Linq;

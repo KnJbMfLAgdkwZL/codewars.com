@@ -1,7 +1,7 @@
 // Number Of Occurrences
 // https://www.codewars.com/kata/52829c5fe08baf7edc00122b
 
-namespace codewars.com.Kata._8_kyu.Number_Of_Occurrences
+namespace codewars.com.Kata._7_kyu.Number_Of_Occurrences
 {
     using System.Linq;
 

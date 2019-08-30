@@ -1,7 +1,7 @@
 // Fizz Buzz
 // https://www.codewars.com/kata/5300901726d12b80e8000498
 
-namespace codewars.com.Kata._8_kyu.Fizz_Buzz
+namespace codewars.com.Kata._7_kyu.Fizz_Buzz
 {
     using System;
     using System.Collections.Generic;

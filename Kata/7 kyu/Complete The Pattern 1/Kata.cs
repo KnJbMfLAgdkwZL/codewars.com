@@ -1,7 +1,7 @@
 // Complete The Pattern 1
 // https://www.codewars.com/kata/5572f7c346eb58ae9c000047
 
-namespace codewars.com.Kata._8_kyu.Complete_The_Pattern_1
+namespace codewars.com.Kata._7_kyu.Complete_The_Pattern_1
 {
     using System.Linq;
 

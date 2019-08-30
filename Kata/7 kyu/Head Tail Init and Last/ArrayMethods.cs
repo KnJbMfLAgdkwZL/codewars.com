@@ -1,7 +1,7 @@
 // Head Tail Init and Last
 // https://www.codewars.com/kata/54592a5052756d5c5d0009c3
 
-namespace codewars.com.Kata._8_kyu.Head_Tail_Init_and_Last
+namespace codewars.com.Kata._7_kyu.Head_Tail_Init_and_Last
 {
     using System.Linq;
     using System.Collections.Generic;

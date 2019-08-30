@@ -1,7 +1,7 @@
 // Sorted yes no how
 // https://www.codewars.com/kata/580a4734d6df748060000045
 
-namespace codewars.com.Kata._8_kyu.Sorted_yes_no_how
+namespace codewars.com.Kata._7_kyu.Sorted_yes_no_how
 {
     using System.Linq;
 

@@ -1,7 +1,7 @@
 // Summing a numbers digits
 // https://www.codewars.com/kata/52f3149496de55aded000410
 
-namespace codewars.com.Kata._8_kyu.Summing_a_numbers_digits
+namespace codewars.com.Kata._7_kyu.Summing_a_numbers_digits
 {
     using System;
     using System.Linq;

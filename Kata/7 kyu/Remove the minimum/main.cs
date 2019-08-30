@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/563cf89eb4747c5fb100001b
 // Remove the minimum
 
-namespace Remove_the_minimum
+namespace codewars.com.Kata._7_kyu.Remove_the_minimum
 {
     using System.Collections.Generic;
     using System.Linq;

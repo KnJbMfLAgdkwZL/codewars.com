@@ -1,7 +1,7 @@
 // JavaScript Array Filter
 // https://www.codewars.com/kata/514a6336889283a3d2000001
 
-namespace codewars.com.Kata._8_kyu.JavaScript_Array_Filter
+namespace codewars.com.Kata._7_kyu.JavaScript_Array_Filter
 {
     using System.Linq;
 

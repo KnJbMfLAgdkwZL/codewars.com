@@ -1,7 +1,7 @@
 // Simple Equation 2
 // https://www.codewars.com/kata/5641b3f737b248b8840000b0
 
-namespace codewars.com.Kata._8_kyu.Simple_Equation_2
+namespace codewars.com.Kata._7_kyu.Simple_Equation_2
 {
     namespace SolveIt
     {

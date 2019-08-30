@@ -1,7 +1,7 @@
 // Sum of a sequence
 // https://www.codewars.com/kata/586f6741c66d18c22800010a
 
-namespace codewars.com.Kata._8_kyu.Sum_of_a_sequence
+namespace codewars.com.Kata._7_kyu.Sum_of_a_sequence
 {
     public static class Kata
     {

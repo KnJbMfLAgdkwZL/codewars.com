@@ -1,7 +1,7 @@
 // Power of two
 // https://www.codewars.com/kata/534d0a229345375d520006a0
 
-namespace codewars.com.Kata._8_kyu.Power_of_two
+namespace codewars.com.Kata._7_kyu.Power_of_two
 {
     using System;
 

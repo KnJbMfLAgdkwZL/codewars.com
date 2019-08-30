@@ -1,7 +1,7 @@
 // Sum of numbers from 0 to N
 // https://www.codewars.com/kata/56e9e4f516bcaa8d4f001763
 
-namespace codewars.com.Kata._8_kyu.Sum_of_numbers_from_0_to_N
+namespace codewars.com.Kata._7_kyu.Sum_of_numbers_from_0_to_N
 {
     using System.Linq;
 

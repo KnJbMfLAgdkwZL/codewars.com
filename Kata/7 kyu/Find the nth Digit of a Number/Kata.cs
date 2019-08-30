@@ -1,7 +1,7 @@
 // Find the nth Digit of a Number
 // https://www.codewars.com/kata/577b9960df78c19bca00007e
 
-namespace codewars.com.Kata._8_kyu.Find_the_nth_Digit_of_a_Number
+namespace codewars.com.Kata._7_kyu.Find_the_nth_Digit_of_a_Number
 {
     public class Kata
     {

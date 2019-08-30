@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/55b42574ff091733d900002f
 // Friend or Foe?
 
-namespace Friend_or_Foe
+namespace codewars.com.Kata._7_kyu.Friend_or_Foe
 {
     using System.Linq;
     using System.Collections.Generic;

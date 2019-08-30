@@ -1,7 +1,7 @@
 // Find the vowels
 // https://www.codewars.com/kata/5680781b6b7c2be860000036
 
-namespace codewars.com.Kata._8_kyu.Find_the_vowels
+namespace codewars.com.Kata._7_kyu.Find_the_vowels
 {
     using System.Collections.Generic;
 

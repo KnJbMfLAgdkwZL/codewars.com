@@ -1,7 +1,7 @@
 // Moves in squared strings I
 // https://www.codewars.com/kata/56dbe0e313c2f63be4000b25
 
-namespace codewars.com.Kata._8_kyu.Moves_in_squared_strings_I
+namespace codewars.com.Kata._7_kyu.Moves_in_squared_strings_I
 {
     using System.Linq;
 

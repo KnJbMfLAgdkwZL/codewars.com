@@ -1,7 +1,7 @@
 // Stick to The Screen Sides
 // https://www.codewars.com/kata/5641d9d4aceb8e30dc0000aa
 
-namespace codewars.com.Kata._8_kyu.Stick_to_The_Screen_Sides
+namespace codewars.com.Kata._7_kyu.Stick_to_The_Screen_Sides
 {
     public class Kata
     {

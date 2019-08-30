@@ -1,7 +1,7 @@
 // A Rule of Divisibility by 7
 // https://www.codewars.com/kata/55e6f5e58f7817808e00002e
 
-namespace codewars.com.Kata._8_kyu.A_Rule_of_Divisibility_by_7
+namespace codewars.com.Kata._7_kyu.A_Rule_of_Divisibility_by_7
 {
     using System.Linq;
 

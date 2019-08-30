@@ -1,7 +1,7 @@
 // Return the Missing Element
 // https://www.codewars.com/kata/5299413901337c637e000004
 
-namespace codewars.com.Kata._8_kyu.Return_the_Missing_Element
+namespace codewars.com.Kata._7_kyu.Return_the_Missing_Element
 {
     using System.Linq;
 

@@ -1,7 +1,7 @@
 // Boiled Eggs
 // https://www.codewars.com/kata/52b5247074ea613a09000164
 
-namespace codewars.com.Kata._8_kyu.Boiled_Eggs
+namespace codewars.com.Kata._7_kyu.Boiled_Eggs
 {
     public class Kata
     {

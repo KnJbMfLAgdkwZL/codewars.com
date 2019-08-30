@@ -1,7 +1,7 @@
 // No oddities here
 // https://www.codewars.com/kata/51fd6bc82bc150b28e0000ce
 
-namespace codewars.com.Kata._8_kyu.No_oddities_here
+namespace codewars.com.Kata._7_kyu.No_oddities_here
 {
     using System.Linq;
 

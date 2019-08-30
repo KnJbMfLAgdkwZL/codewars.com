@@ -1,7 +1,7 @@
 // Most digits
 // https://www.codewars.com/kata/58daa7617332e59593000006
 
-namespace codewars.com.Kata._8_kyu.Most_digits
+namespace codewars.com.Kata._7_kyu.Most_digits
 {
     using System.Linq;
 

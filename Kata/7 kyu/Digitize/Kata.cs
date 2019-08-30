@@ -1,7 +1,7 @@
 // Digitize
 // https://www.codewars.com/kata/5417423f9e2e6c2f040002ae
 
-namespace codewars.com.Kata._8_kyu.Digitize
+namespace codewars.com.Kata._7_kyu.Digitize
 {
     using System.Linq;
 

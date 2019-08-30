@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/566fc12495810954b1000030
 // Count the Digit
 
-namespace Count_the_Digit
+namespace codewars.com.Kata._7_kyu.Count_the_Digit
 {
     using System.Text.RegularExpressions;
 

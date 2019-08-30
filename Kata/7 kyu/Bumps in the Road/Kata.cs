@@ -1,7 +1,7 @@
 // Bumps in the Road
 // https://www.codewars.com/kata/57ed30dde7728215300005fa
 
-namespace codewars.com.Kata._8_kyu.Bumps_in_the_Road
+namespace codewars.com.Kata._7_kyu.Bumps_in_the_Road
 {
     using System.Linq;
 

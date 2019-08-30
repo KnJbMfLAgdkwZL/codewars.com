@@ -1,7 +1,7 @@
 // Matching Plates
 // https://www.codewars.com/kata/5883a3e547abc50eb60000bd
 
-namespace codewars.com.Kata._8_kyu.Matching_Plates
+namespace codewars.com.Kata._7_kyu.Matching_Plates
 {
     class Kata
     {

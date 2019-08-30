@@ -1,7 +1,7 @@
 // Complete The Pattern 2
 // https://www.codewars.com/kata/55733d3ef7c43f8b0700007c
 
-namespace codewars.com.Kata._8_kyu.Complete_The_Pattern_2
+namespace codewars.com.Kata._7_kyu.Complete_The_Pattern_2
 {
     using System.Collections.Generic;
     using System.Linq;

@@ -1,7 +1,7 @@
 // Collatz Conjecture Length
 // https://www.codewars.com/kata/54fb963d3fe32351f2000102
 
-namespace codewars.com.Kata._8_kyu.Collatz_Conjecture_Length
+namespace codewars.com.Kata._7_kyu.Collatz_Conjecture_Length
 {
     public class Kata
     {

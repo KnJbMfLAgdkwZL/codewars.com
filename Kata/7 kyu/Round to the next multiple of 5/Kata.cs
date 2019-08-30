@@ -1,7 +1,7 @@
 // Round to the next multiple of 5
 // https://www.codewars.com/kata/55d1d6d5955ec6365400006d
 
-namespace codewars.com.Kata._8_kyu.Round_to_the_next_multiple_of_5
+namespace codewars.com.Kata._7_kyu.Round_to_the_next_multiple_of_5
 {
     public class Kata
     {

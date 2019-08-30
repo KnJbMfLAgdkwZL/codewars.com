@@ -1,7 +1,7 @@
 // All Inclusive
 // https://www.codewars.com/kata/5700c9acc1555755be00027e
 
-namespace codewars.com.Kata._8_kyu.All_Inclusive
+namespace codewars.com.Kata._7_kyu.All_Inclusive
 {
     using System;
     using System.Collections.Generic;

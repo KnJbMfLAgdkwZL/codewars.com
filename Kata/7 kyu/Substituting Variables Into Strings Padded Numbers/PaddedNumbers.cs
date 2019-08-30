@@ -1,7 +1,7 @@
 // Substituting Variables Into Strings Padded Numbers
 // https://www.codewars.com/kata/51c89385ee245d7ddf000001
 
-namespace codewars.com.Kata._8_kyu.Substituting_Variables_Into_Strings_Padded_Numbers
+namespace codewars.com.Kata._7_kyu.Substituting_Variables_Into_Strings_Padded_Numbers
 {
     public class PaddedNumbers
     {

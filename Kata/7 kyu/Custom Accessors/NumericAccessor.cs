@@ -1,7 +1,7 @@
 // Custom Accessors
 // https://www.codewars.com/kata/58cfa163c496ce8856000064
 
-namespace codewars.com.Kata._8_kyu.Custom_Accessors
+namespace codewars.com.Kata._7_kyu.Custom_Accessors
 {
     namespace CustomAccessors
     {

@@ -1,7 +1,7 @@
 // Make a function that does arithmetic
 // https://www.codewars.com/kata/583f158ea20cfcbeb400000a
 
-namespace codewars.com.Kata._8_kyu.Make_a_function_that_does_arithmetic
+namespace codewars.com.Kata._7_kyu.Make_a_function_that_does_arithmetic
 {
     public class Kata
     {

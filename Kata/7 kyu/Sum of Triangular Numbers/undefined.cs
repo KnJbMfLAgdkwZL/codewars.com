@@ -1,7 +1,7 @@
 // Sum of Triangular Numbers
 // https://www.codewars.com/kata/580878d5d27b84b64c000b51
 
-namespace codewars.com.Kata._8_kyu.Sum_of_Triangular_Numbers
+namespace codewars.com.Kata._7_kyu.Sum_of_Triangular_Numbers
 {
     using System.Linq;
 

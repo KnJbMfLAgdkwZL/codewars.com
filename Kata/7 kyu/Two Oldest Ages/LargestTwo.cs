@@ -1,7 +1,7 @@
 // Two Oldest Ages
 // https://www.codewars.com/kata/511f11d355fe575d2c000001
 
-namespace codewars.com.Kata._8_kyu.Two_Oldest_Ages
+namespace codewars.com.Kata._7_kyu.Two_Oldest_Ages
 {
     using System.Linq;
 

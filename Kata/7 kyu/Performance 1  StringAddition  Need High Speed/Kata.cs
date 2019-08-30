@@ -1,7 +1,7 @@
 // Performance 1  StringAddition  Need High Speed
 // https://www.codewars.com/kata/576cd0e17fdf4645810000bb
 
-namespace codewars.com.Kata._8_kyu.Performance_1__StringAddition__Need_High_Speed
+namespace codewars.com.Kata._7_kyu.Performance_1__StringAddition__Need_High_Speed
 {
     using System;
     using System.Text;

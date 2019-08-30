@@ -1,7 +1,7 @@
 // Speed Control
 // https://www.codewars.com/kata/56484848ba95170a8000004d
 
-namespace codewars.com.Kata._8_kyu.Speed_Control
+namespace codewars.com.Kata._7_kyu.Speed_Control
 {
     using System.Collections.Generic;
     using System.Linq;

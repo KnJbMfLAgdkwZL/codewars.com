@@ -1,7 +1,7 @@
 // Get row from alphabetical sequence
 // https://www.codewars.com/kata/5830195755f28edad4000081
 
-namespace codewars.com.Kata._8_kyu.Get_row_from_alphabetical_sequence
+namespace codewars.com.Kata._7_kyu.Get_row_from_alphabetical_sequence
 {
     public class Kata
     {

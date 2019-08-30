@@ -1,7 +1,7 @@
 // https://www.codewars.com/kata/577bd8d4ae2807c64b00045b
 // Two fighters, one winner.
 
-namespace Two_fighters_one_winner
+namespace codewars.com.Kata._7_kyu.Two_fighters_one_winner
 {
     public class Fighter
     {

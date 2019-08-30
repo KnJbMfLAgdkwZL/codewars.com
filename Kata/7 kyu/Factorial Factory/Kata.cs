@@ -1,7 +1,7 @@
 // Factorial Factory
 // https://www.codewars.com/kata/528e95af53dcdb40b5000171
 
-namespace codewars.com.Kata._8_kyu.Factorial_Factory
+namespace codewars.com.Kata._7_kyu.Factorial_Factory
 {
     using System;
 
